@@ -1,4 +1,5 @@
 hai world
 
-commit percobaan pertama
-commit percpbaan ke dua
+commit percobaan 1 
+commit percobaan 2
+commit percobaan 3
